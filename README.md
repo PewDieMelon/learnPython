@@ -1,2 +1,2 @@
-# learnSwift
-My first steps learning Swift
+# learnPython
+My first steps learning Python
